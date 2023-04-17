@@ -12,7 +12,7 @@ This project enables fast deployment of a Docker Registry on your server machine
 
 # Setup Process:
 
-Launch
+Launch:
 
 ```
 docker-compose up -d
